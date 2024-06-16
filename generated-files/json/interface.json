@@ -1,0 +1,42 @@
+{
+  "QLabel": [
+    {
+      "name": "img_icon",
+      "pixmap": "Qss/icons/img/3d_character_58 1.png"
+    }
+  ],
+  "QPushButton": [
+    {
+      "name": "adminBtn",
+      "icon": "Qss/icons/icons/material_design/security.png"
+    },
+    {
+      "name": "resetBtn",
+      "icon": "Qss/icons/icons/material_design/reset_tv.png"
+    },
+    {
+      "name": "continueBtn",
+      "icon": "Qss/icons/icons/feather/arrow-right.png"
+    },
+    {
+      "name": "embedBtn",
+      "icon": "Qss/icons/icons/material_design/input.png"
+    },
+    {
+      "name": "browseOrdeleteBtn",
+      "icon": "Qss/icons/icons/feather/file.png"
+    },
+    {
+      "name": "deleteDataBtn",
+      "icon": "Qss/icons/icons/font_awesome/solid/eraser.png"
+    },
+    {
+      "name": "speakBtn",
+      "icon": "Qss/icons/icons/feather/mic.png"
+    },
+    {
+      "name": "inputBtn",
+      "icon": "Qss/icons/icons/font_awesome/solid/display.png"
+    }
+  ]
+}

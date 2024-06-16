@@ -1,0 +1,66 @@
+{
+  "ShowLogs": true,
+  "QMainWindow": [
+    {
+      "tittle": "AMIGO"
+    }
+  ],
+  "QSettings": [
+    {
+      "ThemeSettings": [
+        {
+          "CustomTheme": [
+            {
+              "Background-color": "#808080",
+              "Text-color": "#FFFFFF",
+              "Accent-color": "#FFFFFF",
+              "Icons-color": "#FFFFFF",
+              "Theme-name": "Default-theme",
+              "Default-Theme": true
+            }
+          ]
+        }
+      ],
+      "AppSettings": {
+        "OrginizationName": "AMIGO",
+        "ApplicationName": "AMIGO Company",
+        "OrginizationDormain": "AMIGO.org"
+      }
+    }
+  ],
+  "QtBinding": "PySide6",
+  "QCustomQStackedWidget": [
+    {
+      "name": "stackedWidget",
+      "transitionAnimation": [
+        {
+          "slide": [
+            {
+              "active": true,
+              "duration": 1000,
+              "direction": "horizontal",
+              "easingCurve": "OutBack"
+            }
+          ]
+        }
+      ],
+      "navigation": [
+        {
+          "navigationButtons": [
+            {
+              "resetBtn": "homeWidgetPage",
+              "resetBtn_2": "homeWidgetPage",
+              "wakeUpBtn": "askWidgetPage",
+              "inputBtn": "inputWidgetPage",
+              "speakBtn": "speakWidgetPage",
+              "process_user_input": "response_Page",
+              "process_speak_input": "response_Page",
+              "adminBtn": "adminLoginPage",
+              "logInPageBtn": "dashboardPage"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
